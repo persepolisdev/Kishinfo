@@ -33,11 +33,10 @@ export default function About() {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
-              <p className="text-base font-semibold leading-7 text-indigo-600">Deploy faster</p>
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+              <p className="text-base font-semibold leading-7 text-indigo-600">درباره کیش</p>
+              <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">مروارید خلیج فارس</h1>
               <p className="mt-6 text-xl leading-8 text-gray-700">
-                Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam
-                eget aliquam. Quisque id at vitae feugiat egestas.
+              جزیرهٔ کیش، یک جزیرهٔ تفریحی ورزشی در شهرستان بندر لنگه، استان هرمزگان در جنوب ایران واقع در خلیج فارس است. کیش به دلیل وجود منطقه آزاد تجاری، مراکز تفریحی و تجاری، جاذبه‌های گردشگری و هتل‌های فراوان یکی از مقاصد عمده گردشگری در ایران به‌شمار می‌رود.[۱] جمعیت جزیره حدود ۳۵ هزار نفر است.
               </p>
             </div>
           </div>
@@ -45,7 +44,7 @@ export default function About() {
         <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           <img
             className="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-            src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png"
+            src="https://last-cdn.com/2021/11/17/nb4ErhWyGFyz2ILebaBcSLXBOPpLb25UaPwE3YxR.jpeg"
             alt=""
           />
         </div>
@@ -53,46 +52,16 @@ export default function About() {
           <div className="lg:pr-4">
             <div className="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
               <p>
-                Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-                vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-                erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris
-                semper sed amet vitae sed turpis id.
+              جزیره کیش سومین مقصد پربازدید تعطیلات در خاورمیانه پس از دبی و شرم‌الشیخ است. گردشگران بسیاری از کشورهایی که ایران معمولاً برای آن‌ها نیاز به ویزا دارد، از اخذ ویزا برای کیش معاف هستند. این جزیره دارای ۹۱٫۵ کیلومتر مربع مساحت است و از شمال به ایران، از شرق به تنگه هرمز، از جنوب به کشور امارات متحده عربی و از غرب به کشورهای بحرین، قطر و عربستان منتهی می‌شود.
               </p>
-              <ul role="list" className="mt-8 space-y-8 text-gray-600">
-                <li className="flex gap-x-3">
-                  <CloudArrowUpIcon className="mt-1 h-5 w-5 flex-none text-indigo-600" aria-hidden="true" />
-                  <span>
-                    <strong className="font-semibold text-gray-900">Push to deploy.</strong> Lorem ipsum, dolor sit amet
-                    consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
-                    blanditiis ratione.
-                  </span>
-                </li>
-                <li className="flex gap-x-3">
-                  <LockClosedIcon className="mt-1 h-5 w-5 flex-none text-indigo-600" aria-hidden="true" />
-                  <span>
-                    <strong className="font-semibold text-gray-900">SSL certificates.</strong> Anim aute id magna aliqua
-                    ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.
-                  </span>
-                </li>
-                <li className="flex gap-x-3">
-                  <ServerIcon className="mt-1 h-5 w-5 flex-none text-indigo-600" aria-hidden="true" />
-                  <span>
-                    <strong className="font-semibold text-gray-900">Database backups.</strong> Ac tincidunt sapien
-                    vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.
-                  </span>
-                </li>
-              </ul>
-              <p className="mt-8">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
-                fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
-                adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
-              </p>
-              <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">No server? No problem.</h2>
+              
+              <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">دوران باستان</h2>
               <p className="mt-6">
-                Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh.
-                Pharetra, euismod vitae interdum mauris enim, consequat vulputate nibh. Maecenas pellentesque id sed
-                tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam
-                turpis ipsum eu a sed convallis diam.
+              جزیره کیش در تاریخ با نام‌های کامتینا، اراکیا (یونانی باستان: Αρακία)، آراکاتا و قیس نام برده شده‌است. موقعیت جغرافیایی استراتژیک جزیره کیش از دوران تمدن‌های باستانی آشور و ایلام مشخص شد که قایق‌های بادبانی در امتداد خط ساحلی جنوبی از این جزیره در کنار جزایر قشم و هرمز به عنوان ایستگاهی در طول مسیر استفاده می‌کردند. با از بین رفتن این تمدن‌ها، موقعیت برتر جزیره کیش از بین رفت. با بنیانگذاری شاهنشاهی هخامنشیان، خلیج فارس به شدت تحت تأثیر قرار گرفت. در سایه هخامنشیان جزایر خلیج فارس رونق یافتند، دریانوردی در خلیج فارس گسترش یافت و از کشتی‌های بهتری برای حمل مسافر و کالا استفاده شد. در این دوره ابزار کمک‌ناوبری از جمله فانوس دریایی برای تسهیل دریانوردی در خلیج فارس نیز راه‌اندازی شد.
+
+اسکندر مقدونی پس از حمله به ایران، در سال ۳۲۵ پیش از میلاد نئارخوس را برای سفری اکتشافی به دریای عمان و خلیج فارس روانه کرد. نوشته‌های نئارخوس در مورد آراکاتا حاوی اولین اشاره شناخته‌شده جزیره کیش در دوران باستان است.[1]
+
+حاکمیت کیش در دوره اشکانیان و ساسانیان نیز در دست ایران بود و با گسترش اسلام، این جزیره به دست خلفای اموی افتاد. سرانجام در سال ۲۴۹ قمری یکی از ایرانیان اهل ری بر خلیفه شورش کرد و تمامی جزایر خلیج فارس را از جمله و بحرین تسخیر کرد.[۴] از دوران حکومت آل‌بویه کیش دوباره تحت حکومت ایران قرار گرفت.[۴]
               </p>
             </div>
           </div>
