@@ -6,10 +6,10 @@ export default function Header(){
     return (
       <>
      
-      <div class="header">
+      <div className="header">
   
   
-  <div class="inner-header flex">
+  <div className="inner-header flex">
   
 <h1>kish island</h1>
   </div>

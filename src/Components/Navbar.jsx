@@ -30,17 +30,19 @@ export default function Navbar() {
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
                   <img
-                    className="h-8 w-auto"
+                    className="h-8 w-auto right-1"
                     src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
                     alt="Your Company"
                   />
                 </div>
-                <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+                <div className="hidden sm:ml-6 sm:flex sm:space-x-4">
                   {/* Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" */}
               
-                  <Link className="inline-flex items-center border-b-1 border-indigo-500 px-2 pt-1 text-sm font-medium text-gray-900" to="/">اطلاعات شهری کیش</Link>
-                  <Link className="inline-flex items-center border-b-1 border-indigo-500 px-4 pt-1 text-sm font-medium text-gray-900" to="/about">چرا کیش ؟</Link>
-  
+                  <Link className="inline-flex items-center border-b-3 border-transparent px-5 pt-1 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700" to="/">خانه</Link>
+                  <Link className="inline-flex items-center border-b-1 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700" to="/about">درباره کیش</Link>
+                  <Link className="inline-flex items-center border-b-1 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700" to="/blogs">جاذبه ها</Link>
+                  <Link className="inline-flex items-center border-b-1 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700" to="/about">مراکز خرید</Link>
+              
                 </div>
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
