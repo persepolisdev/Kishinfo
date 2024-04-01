@@ -1,7 +1,6 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import About  from '../Pages/Homepage.jsx'
 import { Route, Routes, Link } from "react-router-dom"
 
 function classNames(...classes) {

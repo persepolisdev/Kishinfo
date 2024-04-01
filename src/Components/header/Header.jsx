@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import SVGComponent from '../Components/SVGComponent.jsx'
+import SVGComponent from './SVGComponent.jsx'
 export default function Header(){
     const [count, setCount] = useState(0)
 
