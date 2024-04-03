@@ -11,7 +11,7 @@ export default function Header(){
   
   <div className="inner-header flex">
   
-<h1>kish island</h1>
+<h1>Welcome to website Kishinfo</h1>
   </div>
   
   <div>

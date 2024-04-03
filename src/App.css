@@ -21,12 +21,13 @@ p {
   position:relative;
   text-align:center;
   /* background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%); */
-  background-image: url(https://www.holiday-weather.com/images/mobile/header-bg.webp);
+  background-image: url(https://iranderaktravel.com/wp-content/uploads/2022/05/kish-Island.jpg);
   background-position:center;
+  background-size: cover;
   color:white;
 }
 .logo {
-  width:50px;
+  width:30px;
   fill:white;
   padding-right:15px;
   display:inline-block;
@@ -34,7 +35,7 @@ p {
 }
 
 .inner-header {
-  height:25vh;
+  height:35vh;
   width:100%;
   margin: 0;
   padding: 0;

@@ -23,7 +23,7 @@ const Blogs = () => {
   }, []);
 
 //برای نمایش سه تای آخر 
-  const lastThreePosts = fetchedPosts.slice(0, 3);
+  const lastThreePosts = fetchedPosts.slice(0, 6);
 
 
 
